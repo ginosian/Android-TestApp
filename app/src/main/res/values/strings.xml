@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Widgets</string>
+
+    <!-- Activity labels -->
+    <string name="activity.label.barcodeScanner">Barcode Scanner</string>
+    <string name="activity.label.stepper">Stepper</string>
+    <string name="activity.label.signatureview">Signature View</string>
+    <string name="activity.label.barcodeEdittext">Barcode EditText</string>
+
+    <string-array name="categories">
+        <item name="photo_widget">Photo Widget</item>
+        <item name="photo_widget_annotation">Annotation Photo Widget</item>
+        <item name="barcode_scanner">Barcode Scanner</item>
+        <item name="barcode_reader">Camera Scanner</item>
+        <item name="list_component">Custom List</item>
+        <item name="number_selector">Number Selector</item>
+        <item name="date_selector">Date Selector</item>
+        <item name="stepper">Screen Stepper</item>
+        <item name="signature_view">Signature View</item>
+        <item name="barcode_edittext">Barcode EditText</item>
+    </string-array>
+</resources>

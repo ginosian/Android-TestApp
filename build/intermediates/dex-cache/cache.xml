@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\android-widget-testapp\components\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3813fb39ff2dabab42c35af88439103ba78c113f">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\android-widget-testapp-components-unspecified_177510b61267bd485557c1930ed71f579f1f0a0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\marta.ginosyan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\glide-3.7.0_3550dddfe6e04598844428a42cc4db514c383652.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d502e4a55039c7b920b5ef5f89d23060304ff8c">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.1_0133b6b497369888287dc8d7253d04d2ab47cda4.jar" />
+    </item>
+    <item
+        jar="C:\Users\marta.ginosyan\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\core-3.2.1_116293afcf15b2eef5c1125444df181e221f5e21.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a71cfcfe6d690ee7034e6303e68bc97fa5234946">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.1_bc9d5edae08c1d79427ffef75e01078c77fccabd.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_736cc3c443efd0e41311fadd0d6f35ab9abdcaa6.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.davemorrissey.labs\subsampling-scale-image-view\3.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa7c91f0a2b43f8d9fa001e3d04e2d600f24cc68">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.davemorrissey.labs-subsampling-scale-image-view-3.5.0_bbe11115fc18b54648f971c270aa4abe275ac2a8.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_aec526739425a9854240c406a41ccaad7a56409b.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6dcbd3a56843f14553715f22b331d017f0fabc12">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.1_f52146b836a856b20e20f93bf4cf1cb3d447bbad.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_4ebd3dd676598025ff205327e6f23eff230dccf2.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_7f98d1fba1edf42bd1a470b46337125d7ceee582.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\android-widget-testapp\barcode\unspecified\jars\libs\DataCollection.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="deabb2ecdd1e9ddcdafc6d8295285c25902f31b0">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\DataCollection_c3f1b7ac2e4650debf08c21ee5a897685077be46.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e51f4e3317456544915089185a40f4883addbdf1">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.1_464951f72d24f774b3c76206e8e76f1bef7241ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\marta.ginosyan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_9f7600e4050004870aa0ee9a5809958a80582e92.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e711046a40e1562d85854ee09cd0a05254cb6463">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.1_18fb109a4a85f7bb975dc2d1cd3df0289ac016ce.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a3ebac72ca6befe2e900427505dbb3dd58a5ebbf">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.1_f7e3a0c9d18ef58c8670c5d6055101a20834b5cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\marta.ginosyan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\gson-2.6.2_261e845a46b0159b78845ec9da08a545f04c7a55.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_8d10798629dcdd3bf777536b3b6bdda1781f5d76.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_59b3c0649965f959615ab8a7d45a9d6127564f98.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\android-widget-testapp\camera\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="11e4377aec17ea30aaf64e119c306198be0cf8d7">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\android-widget-testapp-camera-unspecified_57839aed4ffd0f5162a4fb9339ce49683a213ef9.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\me.dm7.barcodescanner-core-1.8.4_66a8dd6dc81d27b360493280a9d40b89bcde12fe.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_818f50b6d6de470da527ec00b829c193728ae042.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.makeramen-roundedimageview-2.2.1_41d47a33bec166f1f974fccb0931b0ca8f8a85bf.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\android-widget-testapp\barcode\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c325d1eeb7fade7a11dccbf31d441ececa6dbc5f">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\android-widget-testapp-barcode-unspecified_66e74d681e364fec1bfa1597f78712aa91f0f9c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\marta.ginosyan\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\annotations-java5-15.0_a67ad6fee3165d7f48b1f5c3c0dfe040a7f876a3.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_1c3d61e77e6a94f9c33abdd050c2a4839dc13e0b.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\me.dm7.barcodescanner-zxing-1.8.4_07c77641547868a80dd3e99593c9fee95c4c1be9.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa736dcff406efe6012e6edc61239c47a08b40f4">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.1_5b474d2f2d1374d1ddfd574de2ed75c9baa5d89c.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.1_f35fe0215668b278220eb347e9a9178e07581fd5.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="13270ae22369a0d50cb6c560aeca4056f025cae6">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.1_f94e694e46fa52ca7f9ecb6ca78d413802c77cb6.jar" />
+    </item>
+    <item
+        jar="D:\Marta\Components\android-widget-testapp\app\build\intermediates\exploded-aar\com.squareup.sqldelight\runtime\0.3.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1da9c8f6c738580faee631f06f84d3d51c49a6b0">
+        <dex dex="D:\Marta\Components\android-widget-testapp\app\build\intermediates\pre-dexed\debug\com.squareup.sqldelight-runtime-0.3.2_125abd9139a841b7fcb563c3367946191833c6f3.jar" />
+    </item>
+
+</items>

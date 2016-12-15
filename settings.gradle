@@ -1,0 +1,4 @@
+include ':app', ':components', ':camera', ':barcode'
+project(':components').projectDir = new File('../android-components/components')
+project(':camera').projectDir = new File('../android-widget-camera/camera')
+project(':barcode').projectDir = new File('../android-widget-barcode/barcode')

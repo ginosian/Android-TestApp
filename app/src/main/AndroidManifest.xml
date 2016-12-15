@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.cargomatrix.widgets"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:name="com.cargomatrix.components.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.MainActivity"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.BarcodeScannerActivity"
+            android:label="@string/activity.label.barcodeScanner"/>
+        <activity
+            android:name=".activities.BarcodeCameraTestActivity"
+            android:label="@string/activity.label.barcodeScanner"/>
+        <activity
+            android:name=".activities.NumSelectorTestActivity"
+            android:label="@string/activity.label.numselector"/>
+        <activity
+            android:name=".activities.ListComponentTestActivity"
+            android:label="@string/activity.label.listcomponent"
+            android:theme="@style/Widgets.Components.ListComponent"/>
+        <activity
+            android:name=".activities.BarcodeReaderTestActivity"
+            android:label="@string/activity.label.barcodereader"/>
+        <activity
+            android:name=".activities.StepperTestActivity"
+            android:label="@string/activity.label.stepper"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".activities.SignatureTestActivity"
+            android:label="@string/activity.label.signatureview"/>
+        <activity
+            android:name=".activities.BarcodeEditTextTestActivity"
+            android:label="@string/activity.label.barcodeEdittext"/>
+    </application>
+
+</manifest>
